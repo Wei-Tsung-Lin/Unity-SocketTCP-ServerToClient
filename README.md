@@ -1,3 +1,3 @@
 # Unity-Chat-System
  
-![image](https://github.com/Wei-Tsung-Lin/Unity_SocketTCP_ChatSystem/blob/main/demo.png)
+![image](https://raw.githubusercontent.com/Wei-Tsung-Lin/Unity-Chat-System/main/demo.jpg)
